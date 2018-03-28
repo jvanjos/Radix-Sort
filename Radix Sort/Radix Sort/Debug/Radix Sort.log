@@ -1,0 +1,10 @@
+﻿  Radix Sort.cpp
+c:\users\jvanj\source\repos\radix sort\radix sort\radix sort.cpp(18): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\radix sort\radix sort\radix sort.cpp(22): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\radix sort\radix sort\radix sort.cpp(33): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\jvanj\source\repos\radix sort\radix sort\radix sort.cpp(34): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\jvanj\source\repos\radix sort\radix sort\radix sort.cpp(37): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\radix sort\radix sort\radix sort.cpp(48): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\radix sort\radix sort\radix sort.cpp(56): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\radix sort\radix sort\radix sort.cpp(93): warning C4018: '<': incompatibilidade de signed/unsigned
+  Radix Sort.vcxproj -> C:\Users\jvanj\source\repos\Radix Sort\Debug\Radix Sort.exe
